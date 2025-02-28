@@ -15,3 +15,5 @@ This is a conversational AI chatbot built using **Ollama**, **LangChain**, and *
 
 ## Deployment
 Deployed using [Streamlit Sharing](https://share.streamlit.io/).
+use in terminal 
+streamlit run name_saved.py
