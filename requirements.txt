@@ -4,3 +4,5 @@ langchain-community
 PyPDF2
 python-docx
 python-dotenv
+ollama-gemma2
+
